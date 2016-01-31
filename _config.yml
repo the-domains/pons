@@ -1,0 +1,28 @@
+name: PONS
+favicon: null
+layout_spectrum: 0.8086021351628006
+typography_spectrum: 0.4690395062789321
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7130315208341926
+  lightness: 0.29057357949204743
+  saturation: 0.8414322731550783
+  rhythmicContrast: 0.5435413680970669
+purpose: []
