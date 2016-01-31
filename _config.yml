@@ -1,7 +1,7 @@
 name: PONS
 favicon: null
-layout_spectrum: 0.8086021351628006
-typography_spectrum: 0.4690395062789321
+layout_spectrum: 1
+typography_spectrum: 1
 title: PONS canada
 cta:
   domain: null
